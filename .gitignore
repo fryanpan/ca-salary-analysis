@@ -3,3 +3,5 @@ PublicPay.ca/*.csv
 TransparentCalifornia/*.csv
 .DS_Store
 public_pay_rounded.csv.zip
+cohort_comparison.csv
+initial_cohorts.csv

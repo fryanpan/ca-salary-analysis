@@ -1,1 +1,5 @@
 all_years_with_gender.csv
+PublicPay.ca/*.csv
+TransparentCalifornia/*.csv
+.DS_Store
+public_pay_rounded.csv.zip
